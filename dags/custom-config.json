@@ -1,0 +1,4 @@
+{
+    "target_dir": "/opt/airflow/storage",
+    "collection_id": "EO:EUM:DAT:MSG:CLM-IODC"
+}

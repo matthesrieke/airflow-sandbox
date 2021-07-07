@@ -1,0 +1,4 @@
+storage/*.json
+storage/*.zip
+logs/*
+__pycache__
